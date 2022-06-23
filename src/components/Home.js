@@ -2,7 +2,7 @@ import { View, Text, FlatList, TouchableOpacity, StyleSheet, Image } from 'react
 import React, { useState, useEffect } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import axios from 'axios';
-import { EPISODESURL, HOMEIMAGE } from '../Enviorenment';
+import { EPISODESURL, HOMEIMAGE } from '../Environment';
 
 function Home({ navigation }) {
     const [episodes, setEpisodes] = useState([]);
