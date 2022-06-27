@@ -2,7 +2,7 @@
 Rick and morty dizisinin bölümleri ve karakterleri hakkında bilgi veren React Native 0.68 sürümü ile yazmış olduğum uygulama.
 <br/>
 
-Veriler axios istemcisi ile çekildi.Sayfalar arası geçiş React Navigation ile yapıldı.
+Veriler axios istemcisi ile çekildi. Sayfalar arası geçiş React Navigation ile yapıldı.
 
 ![Rick and morty](https://images6.alphacoders.com/909/thumb-1920-909641.png)
 
