@@ -18,8 +18,6 @@ function Home({ navigation }) {
             setPagination(res.data.info);
         }).catch(err => {
             console.log(err);
-            // bu hatalar google firebase crashlytics 'e gönderilebilir.
-            // Gerekli görülürse kullanıcıya pop-up olarak hata gösterilip geri bildirim alınabilir. 
         })
     }
 
